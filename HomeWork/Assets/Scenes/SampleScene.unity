@@ -213,9 +213,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1036c0dce6fac2f46ba6206574b226d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump_height_modifier: 0.2
-  speed: {x: 5, y: 25, z: 0}
-  gravity: {x: 0, y: -7, z: 0}
+  speed: {x: 5, y: 100, z: 0}
+  gravity: {x: 0, y: -10, z: 0}
 --- !u!1 &290038891
 GameObject:
   m_ObjectHideFlags: 0
