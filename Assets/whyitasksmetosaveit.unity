@@ -393,9 +393,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1036c0dce6fac2f46ba6206574b226d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  gravityForce: -2
-  basicjumpForce: 30
+  default_gravity_value: 1
+  default_jump_force_value: 30
+  speed_value: 3
 --- !u!212 &1946556215
 SpriteRenderer:
   m_ObjectHideFlags: 0
